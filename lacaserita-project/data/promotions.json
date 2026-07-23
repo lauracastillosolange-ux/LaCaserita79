@@ -1,7 +1,0 @@
-[
-  {"id":1,"tag":"LUNES","title":"Hígado de vaca","oldPrice":12.0,"price":10.0,"image":"assets/images/promotions/higado.jpg","imageFallback":"https://loremflickr.com/900/600/bbq,meat?lock=31"},
-  {"id":2,"tag":"MARTES","title":"Morcilla","oldPrice":10.0,"price":8.00,"image":"assets/images/promotions/morcilla.jpg","imageFallback":"https://loremflickr.com/900/600/meat,platter?lock=32"},
-  {"id":3,"tag":"MIERCOLES","title":"Patita de cerdo","oldPrice":15.0,"price":7.00,"image":"assets/images/promotions/patita.jpg","imageFallback":"https://loremflickr.com/900/600/meat,fresh?lock=33"},
-  {"id":4,"tag":"JUEVES","title":"Pavita","oldPrice":18.0,"price":15.5,"image":"assets/images/promotions/pavita.jpg","imageFallback":"https://loremflickr.com/900/600/meat,fresh?lock=33"}
-
-]
