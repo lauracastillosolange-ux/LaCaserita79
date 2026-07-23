@@ -1,8 +1,0 @@
-[
-  {"id":1,"title":"Lomo Saltado","time":"25 min","image":"assets/images/recipes/lomo-saltado.jpg","imageFallback":"https://loremflickr.com/600/500/stirfry,beef?lock=41"},
-  {"id":2,"title":"Arroz con Pollo","time":"40 min","image":"assets/images/recipes/arroz-con-pollo.jpg","imageFallback":"https://loremflickr.com/600/500/chicken,rice?lock=42"},
-  {"id":3,"title":"Seco de Carne","time":"50 min","image":"assets/images/recipes/seco-de-carne.jpg","imageFallback":"https://loremflickr.com/600/500/beefstew,food?lock=43"},
-  {"id":4,"title":"Estofado","time":"45 min","image":"assets/images/recipes/estofado.jpg","imageFallback":"https://loremflickr.com/600/500/stew,food?lock=44"},
-  {"id":5,"title":"Parrilla Mixta","time":"30 min","image":"assets/images/recipes/parrilla-mixta.jpg","imageFallback":"https://loremflickr.com/600/500/grill,bbq?lock=45"},
-  {"id":6,"title":"Adobo","time":"55 min","image":"assets/images/recipes/adobo.jpg","imageFallback":"https://loremflickr.com/600/500/porkstew,food?lock=46"}
-]
